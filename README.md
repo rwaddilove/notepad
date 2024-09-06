@@ -2,7 +2,7 @@
 
 *By Roland Waddilove*
 
-This is a simple notes app written in Python. It was a learning exercise - how to write my first GUI app in Python. It uses the built in Tkinter module to create the window, buttons and menus. It is not meant to be a commercial app, but it works OK. It's probably not the best code, but hopefully, it will help others.
+This is a simple notes app written in Python. It was a learning exercise - how to write my first GUI app in Python. It uses the built in Tkinter module to create the window, buttons and menus. It is not meant to be a commercial app, but it works OK. It's probably not the best code, but hopefully, it will help others. It works on Windows PC and Apple Mac.
 
 ![Screenshot of Data Analysis](https://github.com/rwaddilove/notepad/blob/main/notepad.webp)
 
